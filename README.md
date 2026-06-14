@@ -40,7 +40,7 @@ You can run Clone Hero x RhythymVerse Song Matcher.exe either before or after lo
 
 • Updates tracks that you downloaded and extracted to your Clone Hero songs folder as added to library/owned highlighted in green
 
-• Lists all songs in a 1:1 mirror image to the current RythymVerse page
+• Lists all songs in a 1:1 mirror image to the current RhythymVerse page
 
 • Allows loading more songs/scrolling, search filters, and refreshing of RhythymVerse following perfectly along
 
