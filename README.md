@@ -21,6 +21,7 @@ If editing via Notepad: You must use forward slashes (/) or double backslashes (
 You can run Clone Hero x RythymVerse Song Matcher.exe either before or after loading the RhythmVerse webpage—it will sync either way! :D
 
 Feautures & Functionality:
+
 •Labels and highlights tracks that you already have/own in green
 •Labels tracks that you do not have in red (Terminal window only)
 •Labels and highlights tracks that you download/are extracting in yellow
