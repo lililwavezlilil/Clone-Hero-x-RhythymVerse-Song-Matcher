@@ -1,4 +1,4 @@
-**Clone Hero x RhythmVerse Song Matcher**
+<picture><img width="32" height="32" alt="Clone Hero x RhythymVerse 2" src="https://github.com/user-attachments/assets/452a5c74-8e39-41ca-9167-aff12bc3c429" /><picture>**Clone Hero x RhythmVerse Song Matcher**<picture><img width="32" height="32" alt="Clone Hero x RhythymVerse 2" src="https://github.com/user-attachments/assets/452a5c74-8e39-41ca-9167-aff12bc3c429" /><picture>
 
 Clone Hero x RhythmVerse Song Matcher is for labeling, displaying, and syncing songs alongside RhythmVerse.co to ensure duplicates aren't downloaded unless intended with a nice/simple UI
 
@@ -57,3 +57,4 @@ You can run Clone Hero x RhythmVerse Song Matcher.exe either before or after loa
 <img width="3840" height="2160" alt="Screenshot (386)" src="https://github.com/user-attachments/assets/5b3233f0-65d6-47a2-a3e8-708417b0a371" />
 <img width="3840" height="2160" alt="Screenshot (387)" src="https://github.com/user-attachments/assets/4b7c1519-54d7-41cd-9cb5-1fb2f2f71dd7" />
 <img width="3840" height="2160" alt="Screenshot (389)" src="https://github.com/user-attachments/assets/d9725b63-3c75-4b75-8a7c-1f5a615b2e76" />
+<div align="center"><picture><img width="256" height="256" alt="Clone Hero x RhythymVerse 2" src="https://github.com/user-attachments/assets/452a5c74-8e39-41ca-9167-aff12bc3c429" /><picture><div>
