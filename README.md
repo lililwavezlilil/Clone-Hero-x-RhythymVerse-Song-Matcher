@@ -22,14 +22,18 @@ Go to (https://greasyfork.org/en/scripts/582682-clone-hero-universal-song-matche
 **• OPTION B (Manual Install):**
 Open Tampermonkey.txt and copy everything inside, then click on the Tampermonkey extension in your browser(s) and click Create a new script. Paste everything inside and save
 
-6. All done! You may run Clone Hero Universal Song Matcher.exe without needing to do any of the above steps again
+6. All done! You may run Clone Hero Universal Song Matcher.exe without needing to do any of the above steps again, just make sure you click **ALLOW** when Tampermonkey wants access to the site(s)! 
 
-On the initial run, you will be prompted to select your Clone Hero songs directory (you can change this anytime on the RhythmVerse, CHORUS ENCORE, or CUSTOM SONGS CENTRAL webpage by clicking Change Local Folder in the bottom right corner or by editing the rv_scanner_config.json file with Notepad).
-If editing via Notepad: **YOU MUST** use forward slashes (/) or double backslashes (\\) for your path. Standard copy-pasted Windows paths **WILL NOT WORK!**
+On the initial run, you will be prompted to select your Clone Hero songs directory (you can change this anytime on the RhythmVerse, CHORUS ENCORE, or CUSTOM SONGS CENTRAL webpage by clicking Change Local Folder in the bottom right corner or by editing the CH_Settings.txt file with Notepad).
 
-*(Example: C:/Games/Clone Hero/Songs or C:\\\Games\\Clone Hero\\\Songs)*
+*(Example: C:\Games\Clone Hero\Songs)*
 
-You can run Clone Hero Universal Song Matcher.exe either before or after loading the RhythmVerse webpage—it will sync either way! :D
+You can run Clone Hero Universal Song Matcher.exe either before or after loading the RhythmVerse, CHORUS ENCORE, and CUSTOM SONGS CENTRAL webpage(s)—it will sync either way! :D
+
+**All EXE files can be found on my GitHub here:**
+
+https://github.com/lililwavezlilil
+
 
 **Features & Functionality:**
 
